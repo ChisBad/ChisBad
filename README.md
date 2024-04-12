@@ -8,7 +8,7 @@
 ### about me...  
 
 ```javascript
-const Chis = {
+const CHIS = {
   pronouns: "he" | "his",
   rol: ["Quality Analyst"],
   code: [Javascript, HTML, CSS, Java],
