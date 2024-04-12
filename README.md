@@ -11,12 +11,12 @@
 const CHIS = {
   pronouns: "he" | "his",
   role: "Quality Analyst",
-  code: ["JavaScript", "HTML", "Java", "Python", "C#", "Software Testing", "Test Automation", "Defect Management", "Quality Control", "Quality Assurance", "Agile Methodologies", "Regression Testing", "Usability Testing", "Performance Testing", "Security Testing"],
-  tools: ["Visual Studio Code", "Git", "MySQL", "PostgreSQL", "Jira", "Selenium", "Jenkins", "JMeter", "SoapUI", "Cucumber", "TestRail", "Postman"],
+  code: [JavaScript, HTML, Java, Python, C#, Software Testing, Test Automation, Defect Management, Quality Control, Quality Assurance, Agile Methodologies, Regression Testing, Usability Testing, Performance Testing, Security Testing],
+  tools: [Visual Studio Code, Git, MySQL, PostgreSQL, Jira, Selenium, Jenkins, JMeter, SoapUI, Cucumber, TestRail, Postman],
   architecture: ["MVC", "RESTful", "Layered Architecture", "Microservices Architecture", "Hexagonal Architecture", "Service-Oriented Architecture", "Event-Driven Architecture"],
   techCommunities: {
     course: "CasaDelFuturo",
-    focus: ["JavaScript", "Database"]
+    focus: [JavaScript, Database]
   },
   challenge: "I am taking the JavaScript and Database courses at CasaDelFuturo.",
   interests: ["Machine Learning", "Automation Testing", "Agile Methodologies"],
@@ -25,8 +25,8 @@ const CHIS = {
     degree: "Bachelor's in Computer Science"
   },
   languages: ["Spanish", "English"],
-  skillsInDevelopment: ["JavaScript", "Database"],
-  currentCourses: ["JavaScript", "Database"]
+  skillsInDevelopment: [JavaScript, Database],
+  currentCourses: [JavaScript, Database]
 };
 ```
 
