@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ChisBad/ChisBad/assets/138244756/d719c21d-d774-4b61-891b-c40065d45d10">
+</p>
+
 <h1 align="center">Hi 👋, I'm Cristhian</h1>
 <h3 align="center">My first GitHub classes with JavaScript</h3>
 
@@ -10,7 +14,8 @@
 - 📫 How to reach me **gchisbad@gmail.com**
 
 <h3 align="left">About me:</h3>
-<p align="left">¡Hola! Me complace presentarme como alumno de la Casa del Futuro y la Escuela de Programación. Actualmente, estoy inmerso en el emocionante mundo del desarrollo de software, enfocado en mejorar mis habilidades y conocimientos en JavaScript y Bases de Datos.
+<p align="left">
+¡Hola! Me complace presentarme como alumno de la Casa del Futuro y la Escuela de Programación. Actualmente, estoy inmerso en el emocionante mundo del desarrollo de software, enfocado en mejorar mis habilidades y conocimientos en JavaScript y Bases de Datos.
 
 Con una sólida formación como Analista de Calidad, busco expandir mis habilidades y conocimientos técnicos para destacarme aún más en mi carrera profesional. Reconozco que en el entorno empresarial actual, la capacidad para comprender y trabajar con tecnologías emergentes es crucial para impulsar la innovación y la eficiencia.
 
