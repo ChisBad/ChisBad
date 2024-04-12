@@ -7,20 +7,27 @@
 
 ### about me...  
 
-```javascript
+```javascript 
 const CHIS = {
   pronouns: "he" | "his",
-  rol: ["Quality Analyst"],
-  code: [Javascript, HTML, CSS, Java],
-  tools: [Visual, Git, MySQL, Others],
-  architecture: Null,
+  role: "Quality Analyst",
+  code: ["JavaScript", "HTML", "Java", "Python", "C#", "Software Testing", "Test Automation", "Defect Management", "Quality Control", "Quality Assurance", "Agile Methodologies", "Regression Testing", "Usability Testing", "Performance Testing", "Security Testing"],
+  tools: ["Visual Studio Code", "Git", "MySQL", "PostgreSQL", "Jira", "Selenium", "Jenkins", "JMeter", "SoapUI", "Cucumber", "TestRail", "Postman"],
+  architecture: ["MVC", "RESTful", "Layered Architecture", "Microservices Architecture", "Hexagonal Architecture", "Service-Oriented Architecture", "Event-Driven Architecture"],
   techCommunities: {
-                        coorganizer: "CasaDelFuturo",
-                        speaker: "CasaDelFuturo",
-                        mentor: "CasaDelFuturo"
-                      },
- challenge: "I am learning JavaSCript and Database at the House of the Future"
-}
+    course: "CasaDelFuturo",
+    focus: ["JavaScript", "Database"]
+  },
+  challenge: "I am taking the JavaScript and Database courses at CasaDelFuturo.",
+  interests: ["Machine Learning", "Automation Testing", "Agile Methodologies"],
+  certifications: ["Accredited Software Testing Fundamentals Certification (ASTFC)", "Scrum Fundamentals Certified", "Cypress", "Postman API Fundamentals"],
+  education: {
+    degree: "Bachelor's in Computer Science"
+  },
+  languages: ["Spanish", "English"],
+  skillsInDevelopment: ["JavaScript", "Database"],
+  currentCourses: ["JavaScript", "Database"]
+};
 ```
 
 <h3 align="left">A little more about me:</h3>
