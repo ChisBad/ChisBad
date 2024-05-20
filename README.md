@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ChisBad/ChisBad/assets/138244756/d719c21d-d774-4b61-891b-c40065d45d10">
-</p>
-
 <h1 align="center">Hi 👋, I'm Cristhian Huamancari</h1>
 <h3 align="center">My first GitHub classes with JavaScript</h3>
 
